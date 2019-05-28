@@ -1,3 +1,5 @@
 # Pong Game
-Resources in this project are owned by massey university.
-Code of Game ENigne is not my own.
+This project aims to duplicate the classic Pong game <br>
+using a custom Java class provided by Massey University.
+<br>
+GameEnigne.java is not my own.
