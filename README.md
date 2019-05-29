@@ -3,7 +3,8 @@
 <h3>using a custom Java class provided by Massey University.</h3>
 
 ![Pong Imaget](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png)
-
+<h5>A typical Pong Look, taken from <a href="https://commons.wikimedia.org/wiki/File:Pong.png">Wikipedia</a</h5>
+  
 <p>GameEnigne.java is not my own.</p>
 =======================================
 
