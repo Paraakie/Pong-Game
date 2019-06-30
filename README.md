@@ -2,10 +2,9 @@
 <h2>This project aims to recreate the classic Pong game,</h2>
 <h3>using a custom Java class provided by Massey University.</h3>
 
-![Pong Imaget](https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png)
-<h5>A typical Pong Look, taken from <a href="https://commons.wikimedia.org/wiki/File:Pong.png">Wikipedia</a></h5>
-  
-<p>GameEnigne.java is not my own.</p>
+Learn more about this project on:
+https://www.paraakie.com/code.php
+
 =======================================
 
 Go <a href="https://github.com/Paraakie/Pong-Game/blob/master/PongGame/src/Pong.java">here</a> to check out the code I wrote for this program.
