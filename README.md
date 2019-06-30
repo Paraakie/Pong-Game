@@ -1,6 +1,6 @@
 # Pong Game
-<p>This project aims to recreate the classic Pong game,</p>
-<p>using a custom Java class provided by Massey University.</p>
+<p>This project aims to recreate the classic Pong game,<br>
+using a custom Java class provided by Massey University.</p>
 
 Learn more about this project on:
 https://www.paraakie.com/code.php
