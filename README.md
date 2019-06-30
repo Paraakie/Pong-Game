@@ -1,10 +1,15 @@
 # Pong Game
-<h2>This project aims to recreate the classic Pong game,</h2>
-<h3>using a custom Java class provided by Massey University.</h3>
+<p>This project aims to recreate the classic Pong game,</p>
+<p>using a custom Java class provided by Massey University.</p>
 
 Learn more about this project on:
 https://www.paraakie.com/code.php
 
+
+![Pong Imaget](https://cdn.discordapp.com/attachments/594721148378546198/594721235003244554/pong_ScreenShot.jpg
+)
+
 =======================================
 
-Go <a href="https://github.com/Paraakie/Pong-Game/blob/master/PongGame/src/Pong.java">here</a> to check out the code I wrote for this program.
+<p>GameEnigne.java is not my own.</p>
+<p>Pong.java is my own</p>
