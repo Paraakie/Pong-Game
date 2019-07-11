@@ -6,7 +6,7 @@ Learn more about this project on:
 https://www.paraakie.com/code.php
 
 
-![Pong Imaget](http://www.paraakie.com/images/github/Own_Website_Landing_Page.png)
+![Pong Imaget](http://www.paraakie.com/images/github/pong_ScreenShot.jpg)
 
 =======================================
 
