@@ -1,4 +1,6 @@
 # Pong Game
+<p>Play Pong 1v1 on one Keyboard!</p>
+
 <p>This project aims to recreate the classic Pong game,<br>
 using a custom Java class provided by Massey University.</p>
 
